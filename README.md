@@ -53,10 +53,10 @@ Trabajo colaborativo y sesiones dirigidas que facilitan la interacción y la res
 
 > ---
 
-## II. Unidad 2: Relaciones y Funciones
+## II. Unidad 2: 
 
 *Contenido de la unidad en desarrollo...*
 
-## III. Unidad 3: Inducción, Recurrencias y Algoritmos
+## III. Unidad 3:
 
 *Contenido de la unidad en desarrollo...*
