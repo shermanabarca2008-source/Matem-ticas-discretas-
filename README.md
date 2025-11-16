@@ -33,22 +33,18 @@ Actividades realizadas por el estudiante de forma independiente para la consolid
 
 | Título de la Actividad | Descripción Breve | Fecha de Entrega | Enlace al Documento / Archivo |
 | :--- | :--- | :--- | :--- |
-| **AA1.1: Mapas Conceptuales de Lógica** | Creación de un mapa conceptual sobre tablas de verdad, tautologías, contradicciones y contingencias. | [dd/mm/aaaa] | [Ir al Mapa Conceptual](./Unidad1/AA1.1-Mapa-Conceptual.pdf) |
+| **AA1.1: Lectura y ejercicios** | Lectura y resolucion de ejercicios con premisas y enunciados. | [12/11/2025] | [Ir a Actividad Autónoma](https://drive.google.com/file/d/1YyxxFvZMOVEq37LztIFdwGV3DfMmFMeK/view?usp=drive_link) |
 
 ### 1.2 🧑‍🏫 Actividades en Contacto con el Docente (ACD)
 
 Trabajo colaborativo y sesiones dirigidas que facilitan la interacción y la resolución de dudas complejas.
 
-* **ACD1.1: Taller de Demostraciones Directas**
-    * **Objetivo:** Aplicar la **regla de inferencia** para construir demostraciones formales de teoremas simples.
-    * **Evidencia:** [Enlace a la Grabación de la Sesión o Documento](./Unidad1/ACD1.1-Taller-Demostraciones.pdf)
-* **ACD1.2: Debate sobre Aplicaciones de la Lógica**
-    * **Tema:** Discusión sobre el uso de la lógica booleana en circuitos digitales y bases de datos.
-    * **Evidencia:** [Enlace al Reporte de Conclusiones](./Unidad1/ACD1.2-Reporte-Debate.pdf)
-* **ACD1.3: Exposición sobre Tipos de Conjuntos**
-    * **Contenido:** Exposición grupal sobre conjuntos finitos, infinitos, numerables y no numerables.
-    * **Evidencia:** [Enlace a las Diapositivas de la Exposición](./Unidad1/ACD1.3-Diapositivas-Conjuntos.pptx)
-
+* **ACD1: LOGICA PROPOCICIONAL, CONECTORES Y TABLAS DE VERDAD**
+    * **Objetivo:** Clase invertida con exposicion sobre  el tema indicado.
+    * **Evidencia:** [Enlace a la Grabación de la Sesión o Documento](https://drive.google.com/file/d/19hGZ9tRugtoLCIBxhYaydV6GeEzhZQ6W/view?usp=drive_link)
+* **ACD2: IMPLICACIONES, EQUIVALENCIAS Y RAZONAMIENTO DEDUCTIVO (leyes proposicionales y reglas de inferencia)**
+    * **Objetivos:** Discusión sobre el uso de la lógica booleana en circuitos digitales y bases de datos.
+    * **Evidencia:** [Enlace al Reporte de Conclusiones](https://drive.google.com/file/d/1fGktkmoz7YFnmlchBcqzYTrjQlagBv4-/view?usp=drive_link)
 ### 1.3 🧪 Aprendizaje Práctico Experimental (APE)
 
 Aplicación de los conceptos teóricos a la resolución de problemas prácticos o la simulación de escenarios.
