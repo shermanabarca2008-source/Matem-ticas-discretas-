@@ -49,7 +49,7 @@ Trabajo colaborativo y sesiones dirigidas que facilitan la interacción y la res
 
 * **APE1: RESOLUCION DE EJERCICIOS**
     * **Descripción:** Resolución de ejercicios sobre la lógica matemática y presentación grupal.
-    * **Resultado:** [Enlace al Código Fuente y Capturas de la Ejecución](./Unidad1/APE1.2-Codigo-Conjuntos.py)
+    * **Resultado:** [Ejercicios resueltos](https://drive.google.com/file/d/1AlWZcIpArPy9w-xpaT-r3c2c7F0TcWNO/view?usp=drive_link)
 
 > ---
 
