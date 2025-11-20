@@ -33,7 +33,7 @@ Actividades realizadas por el estudiante de forma independiente para la consolid
 
 | Título de la Actividad | Descripción Breve | Fecha de Entrega | Enlace al Documento / Archivo |
 | :--- | :--- | :--- | :--- |
-| **AA1: Lectura y ejercicios** | Lectura y resolucion de ejercicios con premisas y enunciados. | [12/11/2025] | [Ir a Actividad Autónoma](https://drive.google.com/file/d/1YyxxFvZMOVEq37LztIFdwGV3DfMmFMeK/view?usp=drive_link) |
+| **AA1: Lectura y ejercicios** | Lectura y resolucion de ejercicios con premisas y enunciados. | [12/11/2025] | [Ir a Actividad Autónoma](https://drive.google.com/file/d/1YyxxFvZMOVEq37LztIFdwGV3DfMmFMeK/view?usp=drive_link)|
 
 ### 1.2 🧑‍🏫 Actividades en Contacto con el Docente (ACD)
 
